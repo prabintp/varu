@@ -1,0 +1,17 @@
+- name: GIT Disorders
+  desc: Diseases related to mouth, esophagus, stomach, intestines and anus.
+        For example anorexia, indigestion, vomiting, acidity, ulcer, IBS, piles (hemorrhoids) etc
+- name: Respiratory - Diseases
+  desc: Diseases related to nose, pharynx, trachea, bronchial tree and lungs.
+        For example  common cold, sinusitis, sneezing, snoring, nasal polyps, pharyngitis, tonsillitis, adenoids, loss or hoarseness of
+        voice, bronchitis, asthma, bronchiectasis, alveolar edema etc
+- name: Ear and Head – Diseases
+  desc: External ear infections, tinnitus, loss of hearing,
+        balance problem(vertigo), headaches,migraine, trigeminal neuralgia etc
+- name: Neurological disorders
+  desc: This affects the structure and functions of brain
+        and spinal cord and leads to conditions like Alzheimers disease, ataxia, bell’s palsy, epilepsy & seizures,
+        multiple sclerosis (MS), parkinson’sdisease, motor neuron disease(MND), stroke, post stroke paralysis, hyper reflexia etc
+- name: Skin disorders
+  desc: External ear infections, tinnitus, loss of hearing, balance
+        problem(vertigo), headaches, migraine, trigeminal neuralgia etc

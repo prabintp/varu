@@ -1,0 +1,12 @@
+- name: About us
+  path: aboutus
+  section_id: aboutus
+- name: Doctor's Profile
+  path: profile
+  section_id: profile
+- name: Treatments
+  path: treatments
+  section_id: treatments
+- name: Contact Us
+  path: contact
+  section_id: contact

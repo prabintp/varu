@@ -1,0 +1,59 @@
+# Site settings
+title: shastha
+email: your-email@shastha.com
+url: https://example.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
+skills: "Web Developer - Graphic Artist - User Experience Designer"
+meta_author: LastName FirstName
+
+site-logo: assets/img/shastha-logo.png
+site-banner: assets/img/banner.jpg
+site-contact-bg: assets/img/contact-bg.png
+site-footer-logo: assets/img/shastha-logo-footer.png
+site-abtimg: assets/img/abtimgtree.jpg
+site-treatmentbg: assets/img/treatmentbg.jpg
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+  default: ffffff
+  primary-clr: 145e79
+  secondary-clr: 74bf44
+
+# Footer settings
+footer:
+  copyright: shashtha
+  contact-heading: CONTACT US
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: SASTHA AYURVRDA CHILTSALAYAMA
+  - line: OPP KUMAR AUP SCHOOL
+  - line: THIRUVATRA P O THRISSUR KERALA INDIA
+  - line: PH 99461 02888
+  - line: Email info@shasthagroup.com
+  - line: www.shasthagroup.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty
