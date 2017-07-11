@@ -121,6 +121,45 @@ header img {
     width: 100%;
 }
 
+.profile-wrapper{
+  padding: 30px 40px;
+  background-color: #fbf6da;
+}
+.profile-wrapper .pitem{
+  background-color: #fff;
+  padding: 30px;
+  margin: 10px 20px;
+  border-radius: 15px
+}
+.profile-wrapper .circle{
+border-radius:50% 50% 50% 50%;
+border: 1px solid #ccc;
+width:230px;
+height: 210px;
+padding-top: 20px;
+}
+.profile-wrapper h6{
+  font-weight: normal;
+  text-transform: none;
+  padding-bottom: 5px;
+  border-bottom: 3px dotted #{{ site.color.primary-clr }};
+  color: #{{ site.color.secondary-clr }};
+  font-size: 18pt;
+
+}
+.profile-wrapper h4{
+  text-transform: none;
+  color: #{{ site.color.primary-clr }};
+  font-weight: bold;
+  font-size: 21pt;
+}
+
+.profile-wrapper p{
+  font-size: 14pt;
+  text-align: justify;
+  color: #{{ site.color.primary-clr }};
+}
+
 .aboutus h3{
   font-size:  21.22pt;
   text-align: center;
