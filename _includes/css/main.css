@@ -95,8 +95,9 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 .lg-container{
-  /* max-width: 1440px;
-  width: 100%; */
+ max-width: 1440px;
+  width: 100%;
+  padding:0px;
 }
 
 header {
