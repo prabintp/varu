@@ -167,7 +167,7 @@ padding-top: 20px;
 }
 .aboutus p{
   font-size: 12pt;
-  padding: 10px 0px;
+  padding: 10px 30px;
 }
 .aboutus img{
   width: 100%;
@@ -334,6 +334,28 @@ section.success {
       color: #{{ site.color.primary }};
 
     }
+
+    .aboutus img{
+      display: none;
+    }
+    header .container {
+    padding-top: 62px;
+   }
+   .aboutus h3 {
+    padding-top: 10px;
+  }
+  .aboutus p {
+    padding: 10px 10px;
+  }
+  .profile-wrapper {
+    padding: 30px 0px;
+ }
+ .treatment-wrapper .content {
+    padding: 0px 10px;
+}
+.profile-wrapper .pitem {
+    margin: 10px 0px;
+  }
 }
 
 #portfolio .portfolio-item {

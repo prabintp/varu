@@ -1,3 +1,6 @@
+- name: Home
+  path: page-top
+  section_id: page-top
 - name: About us
   path: aboutus
   section_id: aboutus
